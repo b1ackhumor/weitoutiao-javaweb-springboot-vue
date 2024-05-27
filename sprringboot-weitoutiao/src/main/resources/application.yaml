@@ -11,7 +11,7 @@ spring:
     druid:
       url: jdbc:mysql:///sm_db
       username: root
-      password: wanghejie0109
+      password: root
       driver-class-name: com.mysql.cj.jdbc.Driver
 
 # mybatis-plus的配置
